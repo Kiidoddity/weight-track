@@ -2,7 +2,7 @@
   "name": "Weight Tracker",
   "short_name": "Weight",
   "description": "Daily weight tracker",
-  "start_url": "/ weight-track/",
+  "start_url": "/weight-track/",
   "display": "standalone",
   "background_color": "#e8f0ed",
   "theme_color": "#B5C9C0",
